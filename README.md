@@ -117,5 +117,5 @@ git push
 ### Финал
 ## В случае сомнений, используйте помощь
 ```git
-git command --help
+$git command --help
 ```
